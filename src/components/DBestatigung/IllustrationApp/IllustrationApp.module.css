@@ -1,0 +1,17 @@
+.root {
+  position: relative;
+  width: 170px;
+  height: 104px;
+  align-items: flex-start;
+}
+.illustrationApp {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/illustrationApp.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

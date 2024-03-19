@@ -1,0 +1,645 @@
+.box_allein1.box_allein1 {
+  background-image:/* webpackIgnore: true */ url('/assets/box_allein12.jpg');
+}
+.badgeText {
+  color: #00ad4c;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Circular Std, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.illustrationApp.illustrationApp {
+  background-image:/* webpackIgnore: true */ url('/assets/illustrationApp2.jpg');
+}
+.root {
+  width: 1440px;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  padding: 32px 64px 48px;
+  background-color: #eee9e1;
+  overflow: hidden;
+}
+.main {
+  width: 636px;
+  height: min-content;
+  flex-direction: column;
+  border-radius: 6px;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: 0px 4px 4px -3px #00000014, 0px 2px 3px 0px #0000000a;
+}
+.header {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  padding: 64px;
+  background-color: #fbf7f2;
+  overflow: hidden;
+}
+.text {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20px;
+}
+.dankeDassDuInMehrwegBestellst {
+  color: #00ad4c;
+  font-size: 32px;
+  line-height: 112%;
+  font-weight: bold;
+  font-family: Platform, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.wirFreuenUnsDassDuGemeinsamMit {
+  color: #111;
+  font-size: 17px;
+  line-height: 135%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.01em;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.main2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 32px;
+  padding: 48px;
+}
+.section {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 32px;
+}
+.intro {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 12px;
+}
+.soFunktioniertDieRuckgabe {
+  color: #111;
+  font-size: 21px;
+  line-height: 120%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.duHast21TageLangZeitUnsDeineVe {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.imageText {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 24px;
+}
+.image {
+  width: 258px;
+  height: 172px;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/assets/image.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text2 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+.text3 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 4px;
+}
+.beiEinemRestaurant {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.gibDieVerpackungenBeiEinemUnse {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 15px;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.label2 {
+  color: #00ad4c;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  text-decoration: underline;
+}
+.label3 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.button {
+  width: min-content;
+  height: 36px;
+  align-items: center;
+  padding: 7px 16px 9px;
+  border-radius: 6px;
+  background-color: #00ad4c;
+}
+.ruckgabeStarten {
+  color: #fff;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.imageText2 {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 24px;
+}
+.image2 {
+  width: 258px;
+  height: 172px;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/assets/image2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text4 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+.text5 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 4px;
+}
+.OderEinfachAbholenLassen {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.wahleBeiDeinerNachstenBestellu {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.dankUnsererKooperationMitDemUm {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 15px;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label4 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.label5 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.label6 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.textBlock {
+  margin-top: 0;
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.textBlock2 {
+  margin-top: 0;
+}
+.labelWrapper3 {
+  font-size: 15px;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label7 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.label8 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.infoText {
+  height: min-content;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 16px;
+  border-radius: 8px;
+  background-color: #fbf7f2;
+}
+.fallsDuDieVerpackungNichtInner {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.labelWrapper4 {
+  font-size: 15px;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label9 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.label10 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.label11 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.action {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 12px;
+}
+.button2 {
+  height: 56px;
+  align-self: stretch;
+  place-content: center;
+  align-items: center;
+  padding: 18px 32px;
+  border-radius: 8px;
+  background-color: #00ad4c;
+}
+.meineVerpackungen {
+  color: #fff;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.offeneVerpackungenInDeinemVelo {
+  color: #888;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.divider {
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  align-self: stretch;
+  background-color: #e2e2e2;
+}
+.section2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+}
+.brauchstDuHilfe {
+  color: #111;
+  font-size: 21px;
+  line-height: 120%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  width: 540px;
+  height: min-content;
+  flex-direction: column;
+}
+.weitereInfosZuDenMehrwegverpac {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.labelWrapper5 {
+  font-size: 15px;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label12 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.label13 {
+  color: #00ad4c;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  text-decoration: underline;
+}
+.label14 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+}
+.contact {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+}
+.hilfeVelofoodAt {
+  color: #00ad4c;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  text-decoration: underline;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._436608399394 {
+  color: #00ad4c;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  text-decoration: underline;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.divider2 {
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  align-self: stretch;
+  background-color: #e2e2e2;
+}
+.app {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 24px;
+}
+.text6 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+.schnellerBestellenMitDerVelofo {
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock5 {
+  color: #111;
+  font-size: 21px;
+  line-height: 120%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+}
+.textBlock6 {
+  color: #111;
+  font-size: 21px;
+  line-height: 120%;
+  font-weight: bold;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+}
+.badges {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 11px;
+}
+.footer {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 24px;
+}
+.hilfeVelofoodAt2 {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  text-decoration: underline;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.impressum {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  text-decoration: underline;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.datenschutz {
+  color: #111;
+  font-size: 15px;
+  line-height: 140%;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  text-decoration: underline;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

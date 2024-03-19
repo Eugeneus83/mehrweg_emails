@@ -1,0 +1,38 @@
+.logoMark.logoMark {
+  left: 31.0863%;
+  right: 29.5931%;
+  top: 40.1516%;
+  bottom: 15.909%;
+  width: initial;
+  height: initial;
+}
+.vector.vector {
+  left: 0.3677%;
+  top: 0.505%;
+}
+.vector {
+  left: 0.3677%;
+  top: 0.505%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 122px;
+  height: 80px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.box_allein1 {
+  position: absolute;
+  left: 0.2271%;
+  right: 0.2271%;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/box_allein1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
